@@ -7,22 +7,10 @@
 ### 👨‍💻 Обо мне (About Me)
 Студент 3-го курса колледжа (18 лет). Специализируюсь на **низкоуровневой разработке**. Фокусируюсь на механизмах взаимодействия программного обеспечения с аппаратной частью, оптимизации алгоритмов и проектировании производительных систем.
 
-- 🎓 Учусь на разработчика / Systems Developer.
-- 🚀 Цель: Разработать свою ОС.
-
----
-
-### 🎯 Текущий фокус на стеке (Current Tech Focus):
-- 🖥️ **Low-Level Development:** Углубленное изучение **SASMx32** и основ разработки ОС.
-- ⚙️ **Systems Programming:** Совершенствование навыков в **C** и **C++**, работа с указателями и ручное управление памятью.
-
----
-
 ### 🛠 Мой стек (My Tech Stack)
 
-**Languages & Tools:** ![C](https://img.shields.io/badge/C-%2320232a.svg?style=for-the-badge&logo=c&logoColor=white)
+**Languages & Tools:** 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SASM](https://img.shields.io/badge/SASM-%23000000.svg?style=for-the-badge&logo=assembly&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-%2320232a.svg?style=for-the-badge&logo=clion&logoColor=white)
