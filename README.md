@@ -13,6 +13,7 @@
 ### 🧩 Frameworks & Libraries
 ![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![STL](https://img.shields.io/badge/STL-%23004482.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### 🗄️ Databases
